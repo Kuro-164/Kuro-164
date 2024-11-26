@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding & Gaming
 - 🌱 I’m currently learning JAVA SCRIPT
 - 📫 How to reach me ...
-- 😄 Pronouns: kARTHIKEYAN
+- 😄 Pronouns: KARTHIKEYAN
 - ⚡ Fun fact: I am still learning it
 
 <!---
