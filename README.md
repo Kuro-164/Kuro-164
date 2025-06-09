@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuro-164
 - 👀 I’m interested in Coding & Gaming
-- 🌱 I’m currently learning JAVA SCRIPT
+- 🌱 I’m currently learning PYTHON
 - 📫 How to reach me ...
 - 😄 Pronouns: KARTHIKEYAN
 - ⚡ Fun fact: I am still learning it
